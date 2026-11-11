@@ -2,7 +2,7 @@
 const SITE = {
   name: "Lyudmila Piatkov",
   tagline: "Electrical Engineering student at Georgia Tech | Medical devices and surgical robotics",
-  email: "lpiatkov3@gatech.edu", phone: "857-316-7308", location: "Boston, MA / Atlanta, GA",
+  email: "lpiatkov3@gatech.edu", location: "Boston, MA / Atlanta, GA",
   photo: "images/headshot.jpg",
   links: { LinkedIn: "https://www.linkedin.com/in/lyudmila-piatkov-58559923b/", GitHub: "https://github.com/lkpiatkov" },
   formspree: "", // paste a Formspree URL here to receive form messages directly; blank = opens the visitor's email app
