@@ -3,7 +3,7 @@ const SITE = {
   name: "Lyudmila Piatkov",
   tagline: "Electrical Engineering student at Georgia Tech | Medical devices and surgical robotics",
   email: "lpiatkov3@gatech.edu", location: "Boston, MA / Atlanta, GA",
-  photo: "images/headshot.jpg",
+  photo: "images/headshot.JPG",
   links: { LinkedIn: "https://www.linkedin.com/in/lyudmila-piatkov-58559923b/", GitHub: "https://github.com/lkpiatkov" },
   formspree: "", // paste a Formspree URL here to receive form messages directly; blank = opens the visitor's email app
   summary: "I'm a second-year Electrical Engineering student at Georgia Tech with a 4.00 GPA and a Spanish minor. I design and build hardware, embedded systems, and robots, from battlebots to autonomous solar panel cleaners. I'm looking for a Summer 2027 internship in medical devices and surgical robotics.",
